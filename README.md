@@ -12,7 +12,7 @@
 
 <h2>🛠️ Technical Skills</h2>
 
-- <b>Languages:</b> HTML, CSS, JavaScript, C#, Java, SQL  
+- <b>Languages:</b> HTML, CSS, C#, Java, SQL  
 - <b>Web & CMS:</b> WordPress, responsive design, UI layout  
 - <b>Databases:</b> MySQL, database fundamentals  
 - <b>Design:</b> Figma, UX principles, wireframing & prototyping  
@@ -21,40 +21,44 @@
 
 <h2>💻 Software & Academic Projects</h2>
 
-- <b>WordPress Client Website</b>  
-  - Designed and developed a responsive website for a real client  
-  - Focused on usability, layout, content structure, and client requirements  
+- <b>Full Stak or Web Development</b>  
+  - <a href="#">CampusConnect</a>
+  - <a href="#">RichfieldBuzz</a>
+    
+- <b>UX/UI Projects</b>  
+  - <a href="#">Figma</a>
 
-- <b>Full-Stack Web Development Project</b>  
-  - Built a web application using front-end and back-end concepts  
-  - Implemented database connectivity and basic CRUD operations  
+- <b>WordPress Project</b>  
+  - <a href="#">Client Website</a>
 
-- <b>C# Object-Oriented Programming Projects</b>  
-  - Applied OOP principles such as inheritance, encapsulation, and polymorphism  
+- <b>Programming Basics</b>  
+  - Created small <a href="#">programming projects</a> using the langauges mentioned
+ 
+- <b>Database System Basics</b>
+ - Created small <a href="#">database projects</a> using MYSQL
 
-- <b>Database Systems Project</b>  
-  - Designed relational databases and wrote SQL queries for data management  
+- <b>System & IT Documentation</b>
+ - Created set up <a href="#">guidelines</a> to using our website
+ - Studied <a href="#">Network Diagrams</a>
+ - During my internships I learnt to <a href="#">troublshoot methods</a>
+ - <a href="#">OS installation notes</a>
 
-- <b>UX/UI Design Concepts</b>  
-  - Created wireframes and prototypes in Figma  
-  - Applied user-centred design and accessibility principles  
+- <b>Student Project Manager / Team Lead</b>
+ - Planned project <a href="#">scope and deliverables</a>
+ - <a href="#">Coordinated tasks among team members</a>
+ - Facilitated team communication and meetings
+ - <a href="#">Tracked progress and addressed risks</a>
+ - Ensured project was delivered on time
 
-<h2>🌱 Currently Learning</h2>
 
-- Advanced UX/UI practices  
-- Agile teamwork and real-world workflows  
-- Improving clean code and design-to-development collaboration  
+<h2>🤝 Certifications </h2>
+ - Higher Certification in Information Technology
+ - Bachelor Degree in Information Technology
 
-<h2>🤝 Open To</h2>
-
-- Junior Software Developer roles  
-- Graduate IT programmes  
-- Junior UX/UI or Web Designer roles  
-- Internships and entry-level opportunities  
 
 <h2>🔗 Connect with Me</h2>
 
-[LinkedIn](#) • [Portfolio](#) • [Email](#)
+[LinkedIn](#https://www.linkedin.com/in/nora-lee-pillay-b425142b3/) • [Portfolio](#) • [Email](#noraleepillay01@gmail.com)
 
 <!--
 Nora-Lee Pillay GitHub Profile README
