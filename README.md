@@ -32,19 +32,19 @@
   - <a href="#">Client Website</a>
 
 - <b>Programming Basics</b>  
-  - Created small <a href="#">programming projects</a> using the langauges mentioned
+  - <a href="#">Created small programming projects</a> using the langauges mentioned
  
 - <b>Database System Basics</b>
- - Created small <a href="#">database projects</a> using MYSQL
+ - <a href="#">Created small database projects</a> using MYSQL
 
 - <b>System & IT Documentation</b>
- - Created set up <a href="#">guidelines</a> to using our website
- - Studied <a href="#">Network Diagrams</a>
- - During my internships I learnt to <a href="#">troublshoot methods</a>
+ - <a href="#">Created set up guidelines</a> to using our website
+ - <a href="#">Studied Network Diagrams</a>
+ - <a href="#">During my internships I learnt to troublshoot methods</a>
  - <a href="#">OS installation notes</a>
 
 - <b>Student Project Manager / Team Lead</b>
- - Planned project <a href="#">scope and deliverables</a>
+ - <a href="#">Planned project scope and deliverables</a>
  - <a href="#">Coordinated tasks among team members</a>
  - Facilitated team communication and meetings
  - <a href="#">Tracked progress and addressed risks</a>
@@ -57,8 +57,8 @@
 
 
 <h2>🔗 Connect with Me</h2>
-
-[LinkedIn](#https://www.linkedin.com/in/nora-lee-pillay-b425142b3/) • [Portfolio](#) • [Email](#noraleepillay01@gmail.com)
+[<img align="left" alt="Nora-Lee | LinkedIn" width="22px" src="https://www.linkedin.com/in/nora-lee-pillay-b425142b3/" />][linkedin]
+[Email](noraleepillay01@gmail.com)
 
 <!--
 Nora-Lee Pillay GitHub Profile README
