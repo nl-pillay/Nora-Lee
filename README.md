@@ -1,107 +1,64 @@
 <!--
 Nora-Lee Pillay | GitHub Profile README
 -->
-<h1>Hi, I'm Nora-Lee Pillay! <br/> 
+
+<h1>Hi, I'm Nora-Lee Pillay! <br/>
   <h2><a href="#">IT Graduate</a>, <a href="#">Junior Software Developer</a>, <a href="#">UX/UI & Web Designer</a></h2>
 </h1>
 
 <h2>👩‍💻 About Me</h2>
 
-<ul>
-  <li>Bachelor of Information Technology graduate (passed with distinctions)</li>
-  <li>Strong foundation in software development, web technologies, and databases</li>
-  <li>Hands-on experience through academic projects, internships, and client-based WordPress work</li>
-  <li>Passionate about building user-friendly, practical digital solutions</li>
-  <li>Actively seeking a junior IT, software development, or UX/UI role</li>
-</ul>
+- Bachelor of Information Technology graduate (passed with distinctions)  
+- Strong foundation in software development, web technologies, and databases  
+- Hands-on experience through academic projects, internships, and client-based WordPress work  
+- Passionate about building user-friendly, practical digital solutions  
+- Actively seeking a junior IT, software development, or UX/UI role  
 
 <h2>🛠️ Technical Skills</h2>
 
-<ul>
-  <li><b>Languages:</b> HTML, CSS, C#, Java, SQL</li>
-  <li><b>Web & CMS:</b> WordPress, responsive design, UI layout</li>
-  <li><b>Databases:</b> MySQL, database fundamentals</li>
-  <li><b>Design:</b> Figma, UX principles, wireframing & prototyping</li>
-  <li><b>Tools:</b> Git, GitHub, Visual Studio, VS Code</li>
-  <li><b>Methodologies:</b> Agile fundamentals</li>
-</ul>
+- **Languages:** HTML, CSS, C#, Java, SQL  
+- **Web & CMS:** WordPress, responsive design, UI layout  
+- **Databases:** MySQL, database fundamentals  
+- **Design:** Figma, UX principles, wireframing & prototyping  
+- **Tools:** Git, GitHub, Visual Studio, VS Code  
+- **Methodologies:** Agile fundamentals  
 
 <h2>💻 Projects & Practical Experience</h2>
 
-<ul>
-  <li>
-    <b>Full Stack / Web Development Projects</b>
-    <ul>
-      <li>CampusConnect - A full-stack academic web application with user authentication, database integration, and responsive UI.</li>
-      <li>RichfieldBuzz - A content-driven web platform focused on usability and layout consistency, </li>
-    </ul>
-  </li>
+- **1. Full Stack / Web Development Projects**  
+  - [CampusConnect](https://github.com/YOUR_GITHUB_USERNAME/CampusConnect) - A full-stack academic web application with user authentication, database integration, and responsive UI.  
+  - [RichfieldBuzz](https://github.com/YOUR_GITHUB_USERNAME/RichfieldBuzz) - A content-driven web platform focused on usability and layout consistency.  
 
-  <li>
-    <b>UX/UI Design Projects</b>
-    <ul>
-      <li>Figma Wireframes & Prototypes - Designed for visual purposes. A User-centered wireframes and interactive prototypes designed with usability and accessibility in mind.</li>
-    </ul>
-  </li>
+- **2. UX/UI Design Projects**  
+  - [Figma Wireframes & Prototypes](https://github.com/YOUR_GITHUB_USERNAME/FigmaWireframes) - Designed for visual purposes. A User-centered wireframes and interactive prototypes designed with usability and accessibility in mind.  
 
-  <li>
-    <b>WordPress Client Project</b>
-    <ul>
-      <li>Client Website Development - Designed and implemented WordPress website based on the clients goals and requirements, focusing on user experience, responsiveness, and brand alignment.</li>
-    </ul>
-  </li>
+- **3. WordPress Client Project**  
+  - [Client Website Development](https://github.com/YOUR_GITHUB_USERNAME/WordPressClient) - Designed and implemented WordPress website based on the clients goals and requirements, focusing on user experience, responsiveness, and brand alignment.  
 
-  <li>
-    <b>Programming Fundamentals</b>
-    <ul>
-      <li>Built multiple small applications using C#, Java, HTML, and CSS, strengthening logic, problem-solving, and clean coding practices</li>
-    </ul>
-  </li>
+- **4. Programming Fundamentals**  
+  - [Small Programming Projects](https://github.com/YOUR_GITHUB_USERNAME/ProgrammingBasics) - Created small programming projects using the languages mentioned.  
 
-  <li>
-    <b>Database Systems</b>
-    <ul>
-      <li>Designed and implemented MySQL databases, including table structures, relationships, backup and recovery.</li>
-    </ul>
-  </li>
+- **5. Database System Basics**  
+  - [MySQL Database Projects](https://github.com/YOUR_GITHUB_USERNAME/DatabaseBasics) - Designed and implemented MySQL databases, including table structures, relationships, backup and recovery.
 
-  <li>
-    <b>Systems & IT Documentation</b>
-    <ul>
-      <li>Created clear system setup and user guides to support non-technical users.</li>
-        <li>Studied and applied basic network diagrams and concepts.</li>
-        <li>Applied IT troubleshooting methodologies during internships.</li>
-        <li>Documented operating system installation and configuration processes.</li>
-    </ul>
-  </li>
+- **6. Systems & IT Documentation**  
+  - [System Setup Guidelines](https://github.com/YOUR_GITHUB_USERNAME/ITDocumentation) - Created clear system setup and user guides to support non-technical users.
+  - Studied and applied basic network diagrams and concepts 
+  - Applied IT troubleshooting methodologies during internships.
+  - Documented operating system installation and configuration processes.
 
-  <li>
-    <b>Student Project Manager / Team Lead</b>
-    <ul>
-      <li>Led academic development projects from planning to delivery.</li>
-      <li>Coordinated tasks and timelines across team members.</li>
-        <li>Facilitated communication and collaboration within the team.</li>
-        <li>Monitored progress, identified risks, and ensured on-time delivery.</li>
-    </ul>
-  </li>
-</ul>
+- **7. Student Project Manager / Team Lead**  
+  - [Coordinated tasks and timelines across team members](https://github.com/YOUR_GITHUB_USERNAME/ProjectManagement)
+  - Led academic development projects from planning to delivery.
+  - Facilitated communication and collaboration within the team. 
+  - Monitored progress, identified risks, and ensured on-time delivery.
 
 <h2>🎓 Qualifications</h2>
 
-<ul>
-  <li>Higher Certificate in Information Technology</li>
-  <li>Bachelor’s Degree in Information Technology</li>
-</ul>
+- Higher Certification in Information Technology  
+- Bachelor Degree in Information Technology  
 
 <h2>🔗 Connect With Me</h2>
 
-<ul>
-  <li>
-    <a href="https://www.linkedin.com/in/nora-lee-pillay-b425142b3/" target="_blank">
-      LinkedIn Profile
-    </a>
-  </li>
-  <li>
-    <a href="mailto:noraleepillay01@gmail.com">noraleepillay01@gmail.com</a>
-  </li>
-</ul>
+- [LinkedIn Profile](https://www.linkedin.com/in/nora-lee-pillay-b425142b3/)  
+- [Email Me](mailto:noraleepillay01@gmail.com)
