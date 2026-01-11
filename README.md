@@ -2,7 +2,7 @@
 Nora-Lee Pillay | GitHub Profile README
 -->
 
-<h1>Hi, I'm Nora-Lee Pillay! <br/>
+<h1>Hi, I'm Nora-Lee Pillay!👋🏼 <br/>
   <h2><a href="#">IT Graduate</a>, <a href="#">Junior Software Developer</a>, <a href="#">UX/UI & Web Designer</a></h2>
 </h1>
 
@@ -42,7 +42,7 @@ Nora-Lee Pillay | GitHub Profile README
   - [MySQL Database Projects](https://github.com/YOUR_GITHUB_USERNAME/DatabaseBasics) - Designed and implemented MySQL databases, including table structures, relationships, backup and recovery.
 
 - **6. Systems & IT Documentation**  
-  - [System Setup Guidelines](https://github.com/YOUR_GITHUB_USERNAME/ITDocumentation) - Created clear system setup and user guides to support non-technical users.
+  - [Created clear system setup and user guides to support non-technical users.](https://github.com/YOUR_GITHUB_USERNAME/ITDocumentation) 
   - Studied and applied basic network diagrams and concepts 
   - Applied IT troubleshooting methodologies during internships.
   - Documented operating system installation and configuration processes.
