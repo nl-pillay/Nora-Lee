@@ -26,7 +26,7 @@ Nora-Lee Pillay | GitHub Profile README
 <h2>💻 Projects & Practical Experience</h2>
 
 - **1. Full Stack / Web Development Projects**  
-  - [CampusConnect](https://github.com/YOUR_GITHUB_USERNAME/CampusConnect) - A full-stack academic web application with user authentication, database integration, and responsive UI.  
+  - [CampusConnect](https://github.com/nl-pillay/CampusConnect/blob/main/README.md) - A full-stack academic web application with user authentication, database integration, and responsive UI.  
   - [RichfieldBuzz](https://github.com/YOUR_GITHUB_USERNAME/RichfieldBuzz) - A content-driven web platform focused on usability and layout consistency.  
 
 - **2. UX/UI Design Projects**  
