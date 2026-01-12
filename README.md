@@ -33,7 +33,7 @@ Nora-Lee Pillay | GitHub Profile README
   - [Figma Wireframes & Prototypes](https://github.com/YOUR_GITHUB_USERNAME/FigmaWireframes) - Designed for visual purposes. A User-centered wireframes and interactive prototypes designed with usability and accessibility in mind.  
 
 - **3. WordPress Client Project**  
-  - [Client Website Development](https://github.com/YOUR_GITHUB_USERNAME/WordPressClient) - Designed and implemented WordPress website based on the clients goals and requirements, focusing on user experience, responsiveness, and brand alignment.  
+  - [Client Website Development](https://github.com/nl-pillay/WordPress-Client-Website/tree/main) - Designed and implemented WordPress website based on the clients goals and requirements, focusing on user experience, responsiveness, and brand alignment.  
 
 - **4. Programming Fundamentals**  
   - [Small Programming Projects](https://github.com/YOUR_GITHUB_USERNAME/ProgrammingBasics) - Created small programming projects using the languages mentioned.  
