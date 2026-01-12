@@ -27,28 +27,28 @@ Nora-Lee Pillay | GitHub Profile README
 
 - **1. Full Stack / Web Development Projects**  
   - [CampusConnect](https://github.com/nl-pillay/CampusConnect/blob/main/README.md) - A full-stack academic web application with user authentication, database integration, and responsive UI.  
-  - [RichfieldBuzz](https://github.com/YOUR_GITHUB_USERNAME/RichfieldBuzz) - A content-driven web platform focused on usability and layout consistency.  
+  - [RichfieldBuzz](https://github.com/nl-pillay/RichfieldBuzz) - A content-driven web platform focused on usability and layout consistency.  
 
 - **2. UX/UI Design Projects**  
-  - [Figma Wireframes & Prototypes](https://github.com/YOUR_GITHUB_USERNAME/FigmaWireframes) - Designed for visual purposes. A User-centered wireframes and interactive prototypes designed with usability and accessibility in mind.  
+  - [Figma Wireframes & Prototypes](https://github.com/nl-pillay/Figma-Prototype-) - Designed for visual purposes. A User-centered wireframes and interactive prototypes designed with usability and accessibility in mind.  
 
 - **3. WordPress Client Project**  
   - [Client Website Development](https://github.com/nl-pillay/WordPress-Client-Website/tree/main) - Designed and implemented WordPress website based on the clients goals and requirements, focusing on user experience, responsiveness, and brand alignment.  
 
 - **4. Programming Fundamentals**  
-  - [Small Programming Projects](https://github.com/YOUR_GITHUB_USERNAME/ProgrammingBasics) - Created small programming projects using the languages mentioned.  
+  - [Small Programming Projects](https://github.com/nl-pillay/Programming-Fundamentals) - Created small programming projects using the languages mentioned.  
 
 - **5. Database System Basics**  
-  - [MySQL Database Projects](https://github.com/YOUR_GITHUB_USERNAME/DatabaseBasics) - Designed and implemented MySQL databases, including table structures, relationships, backup and recovery.
+  - [MySQL Database Projects](https://github.com/nl-pillay/DatabaseProject) - Designed and implemented MySQL databases, including table structures, relationships, backup and recovery.
 
 - **6. Systems & IT Documentation**  
-  - [Created clear system setup and user guides to support non-technical users.](https://github.com/YOUR_GITHUB_USERNAME/ITDocumentation) 
+  - [Created clear system setup and user guides to support non-technical users.](https://github.com/nl-pillay/Systems-IT-Document) 
   - Studied and applied basic network diagrams and concepts 
   - Applied IT troubleshooting methodologies during internships.
   - Documented operating system installation and configuration processes.
 
 - **7. Student Project Manager / Team Lead**  
-  - [Coordinated tasks and timelines across team members](https://github.com/YOUR_GITHUB_USERNAME/ProjectManagement)
+  - [Coordinated tasks and timelines across team members](https://github.com/nl-pillay/Student-Project-Manager)
   - Led academic development projects from planning to delivery.
   - Facilitated communication and collaboration within the team. 
   - Monitored progress, identified risks, and ensured on-time delivery.
