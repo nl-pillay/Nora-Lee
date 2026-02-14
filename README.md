@@ -49,9 +49,9 @@ Nora-Lee Pillay | GitHub Profile README
 
 - **7. Student Project Manager / Team Lead**  
   - [Coordinated tasks and timelines across team members](https://github.com/nl-pillay/Student-Project-Manager)
-  - Led academic development projects from planning to delivery.
-  - Facilitated communication and collaboration within the team. 
-  - Monitored progress, identified risks, and ensured on-time delivery.
+  - [Led academic development projects from planning to delivery.](https://github.com/nl-pillay/Student-Project-Manager)
+  - [Facilitated communication and collaboration within the team.](https://github.com/nl-pillay/Student-Project-Manager) 
+  - [Monitored progress, identified risks, and ensured on-time delivery.](https://github.com/nl-pillay/Student-Project-Manager)
 
 <h2>🎓 Qualifications</h2>
 
