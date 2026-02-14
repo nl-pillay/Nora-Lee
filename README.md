@@ -42,7 +42,7 @@ Nora-Lee Pillay | GitHub Profile README
   - [MySQL Database Projects](https://github.com/nl-pillay/DatabaseProject) - Designed and implemented MySQL databases, including table structures, relationships, backup and recovery.
 
 - **6. Systems & IT Documentation**  
-  - [Created clear system setup and user guides to support non-technical users.](https://github.com/nl-pillay/Systems-IT-Document) 
+  - Created clear system setup and user guides to support non-technical users. 
   - Studied and applied basic network diagrams and concepts 
   - Applied IT troubleshooting methodologies during internships.
   - Documented operating system installation and configuration processes.
